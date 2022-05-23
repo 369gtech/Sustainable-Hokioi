@@ -1,7 +1,7 @@
 <h1><strong>Sustainable Hokioi</strong></h1>
 
 <p align="center"> 
-<a href="https://discord.gg/ndCdU27N"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<a href="https://discord.gg/BVmQfJ3eZz"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 <a href="https://github.com/369gtech/MIT-License/blob/main/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?&color=green&style=flat-square" alt="License"></a>
 </p>
 
